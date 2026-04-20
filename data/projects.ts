@@ -80,7 +80,7 @@ export const projects: Project[] = [
     description:
       "An entangled quantum opponent makes choices that are fundamentally unpredictable — not just hard to guess, but physically impossible to predict.",
     difficulty: "beginner",
-    status: "coming-soon",
+    status: "available",
     concepts: ["Entanglement", "Game Theory", "Measurement"],
     qubits: 2,
     estimatedTime: "15 min",
