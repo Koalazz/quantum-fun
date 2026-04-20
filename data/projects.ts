@@ -38,7 +38,7 @@ export const projects: Project[] = [
     description:
       "A single Hadamard gate creates a perfect 50/50 superposition. Unlike classical random, this is provably unbiased — guaranteed by physics.",
     difficulty: "beginner",
-    status: "coming-soon",
+    status: "available",
     concepts: ["Hadamard Gate", "Superposition", "Measurement"],
     qubits: 1,
     estimatedTime: "5 min",
@@ -66,7 +66,7 @@ export const projects: Project[] = [
     description:
       "Map 8 quantum measurement outcomes to 8 classic Magic 8-Ball answers. The universe itself decides your fortune.",
     difficulty: "beginner",
-    status: "coming-soon",
+    status: "available",
     concepts: ["Superposition", "Measurement", "Classical Mapping"],
     qubits: 3,
     estimatedTime: "10 min",
