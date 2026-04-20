@@ -1,0 +1,2 @@
+qiskit-ibm-runtime>=0.45.1
+matplotlib>=3.9.0
